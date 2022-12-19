@@ -1,11 +1,12 @@
 ---
 template: HomePage
 slug: ""
-title: Yellowcake
+title: T﻿wistedStack
 featuredImage: https://ucarecdn.com/64914a4a-a396-4863-9668-dfbc28d58bdd/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: "# Code Mode"
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: T﻿wistedStack Blog
+  title: T﻿wistedStack Blog
+  canonicalLink: home
 ---
-# T﻿wistedStack
+# T﻿wistedStack Blog
